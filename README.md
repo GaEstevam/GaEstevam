@@ -9,4 +9,4 @@ Desenvolvedor Full-Stack com foco em criar soluções inovadoras e eficientes.
 - ⚡ Curiosidade: Atualmente atuo com projetos pessoais, e projetos academicos
 
 ## 📊 Minhas Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GaEstevam&show_icons=true&theme=radical)
