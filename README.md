@@ -2,10 +2,10 @@
 
 Desenvolvedor Full-Stack com foco em criar soluções inovadoras e eficientes.
 
-- 🌱 Atualmente estou aprendendo: Qualidade de Software
-- 🚀 Projetos em andamento: https://github.com/GaEstevam/tech-challenge-fase2
+- 🌱 Atualmente estou aprendendo: Angular
+- 🚀 Projetos em andamento: ***
 - 💬 Pergunte-me sobre: **React, Node.js, TypeScript...*
-- 📫 Como me encontrar: estevam.gabriel@hotmail.com
+- 📫 Como me encontrar: gabrielestevam96@gmail.com
 - ⚡ Curiosidade: Atualmente atuo com projetos pessoais, e projetos academicos
 
 ## 📊 Minhas Estatísticas
