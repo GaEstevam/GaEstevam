@@ -25,16 +25,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
 </div><br>
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/GaEstevam">
-    <img height="195px"
-      src="https://github-readme-stats.vercel.app/api?username=GaEstevam&show_icons=true&theme=midnight-purple&count_private=true&border_color=00000000"/>
-    <img height="195px"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaEstevam&layout=compact&langs_count=10&theme=midnight-purple&border_color=00000000"/>
-  </a>
-</div>
 
 ### 📫 Contact
 
